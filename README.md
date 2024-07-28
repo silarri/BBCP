@@ -1,3 +1,5 @@
+<img src="/images/BBCP-logo.png" alt="DREAM" width="400"/>
+
 # Behavior Based Consumption Profiles (BBCP)
 
 Despite the increase in the efficiency of energy consumption in information and communication technology, software execution
@@ -32,5 +34,5 @@ The catalog service is responsible for offering the user a catalog of the availa
 
 <img src="/images/cosmos-logo.png" alt="COSMOS" width="30%">
 
-<img src="/images/DREAM-logo.png" alt="DREAM" width="200"/>
+<img src="/images/BBCP-logo.png" alt="BBCP" width="200"/>
 
