@@ -25,3 +25,12 @@ The catalog service is responsible for offering the user a catalog of the availa
 - Catalog Service (Shell - 1st Cycle): https://insightmaker.com/insight/3ezUM7LGPJPwK4kw7hRQ2p/Catalog-Service-Shell
 - Catalog Service (Shell - 2nd Cycle): https://insightmaker.com/insight/2vKeUIARREkXPnJF5PWBd7/Catalog-service-shell-second-cycle
 > Disclamer: Some of the models could stop working due to the changes made by the developers of Insight Maker.
+
+# Logos
+
+<img src="/images/NEAT-AMBIENCE-logo.png" alt="NEAT-AMBIENCE" width="30%"> <img src="/images/NEAT-AMBIENCE-logoAcks.jpg" alt="Funded by PID2020-113037RB-I00 / AEI / 10.13039/501100011033" width="30%">
+
+<img src="/images/cosmos-logo.png" alt="COSMOS" width="30%">
+
+<img src="/images/DREAM-logo.png" alt="DREAM" width="200"/>
+
